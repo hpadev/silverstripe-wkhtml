@@ -1,5 +1,5 @@
 {
-	"name": "heyday/silverstripe-wkhtml",
+	"name": "hpadev/silverstripe-wkhtml",
 	"description": "Provides Wkhtml functionality in SilverStripe",
 	"type": "library",
 	"license": "MIT",
